@@ -1,0 +1,18 @@
+.carousel-caption {
+    width: 40%;
+    height: 30%;    
+    top: 40%;
+    right: 5%;
+    position:absolute;    
+    z-index: 4;rem
+;
+    left: 50%;
+    padding-top: 1.25
+rem
+;
+    padding-bottom: 1.25
+rem
+;
+    color: #fff;
+    text-align: right;
+}
